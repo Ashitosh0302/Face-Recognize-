@@ -14,12 +14,7 @@ The system performs face image preprocessing, dimensionality reduction, classifi
 - To reduce high-dimensional image data using PCA (Eigenfaces)  
 - To classify faces using an Artificial Neural Network  
 - To analyze system performance for different PCA component values  
-- To detect and reject impostor faces  
-
----
-
-## 🗂 Folder Structure
-
+- To detect and reject impostor faces
 
 ---
 
