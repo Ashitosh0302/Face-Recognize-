@@ -81,6 +81,6 @@ The system performs face image preprocessing, dimensionality reduction, classifi
 ![EigenFaces](multiple%20faces.png)
 
 ### Sample Face 2
-![Output Images](images/sample2.jpg)
+![Output Images](face%20recongnize.png)
 
 ---
